@@ -2,7 +2,6 @@ import requests
 from tkinter import *
 from tkinter import messagebox
 
-# <-- جایگزین کن با کلید API خودت -->
 API_KEY = '44146a57b32dec0fe3301f821f3e5714'
 
 def get_weather(city):
